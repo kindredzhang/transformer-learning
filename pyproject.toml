@@ -1,0 +1,18 @@
+[project]
+name = "transformer"
+version = "0.1.0"
+description = "学习 Transformer 模型"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "torch",
+    "transformers",
+    "numpy==1.26.4",
+    "sentencepiece>=0.2.0",
+    "hf-xet>=1.0.3",
+    "accelerate>=1.6.0",
+    "fastai>=2.8.1",
+    "pillow>=11.2.1",
+    "matplotlib>=3.10.1",
+    "requests>=2.32.3",
+]
