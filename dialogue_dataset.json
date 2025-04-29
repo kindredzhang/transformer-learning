@@ -1,0 +1,474 @@
+[
+    {
+        "prompt": "Hello, who are you?",
+        "response": "I am an AI assistant, happy to help you."
+    },
+    {
+        "prompt": "What can you do?",
+        "response": "I can answer questions, provide information, and engage in conversations. Please let me know what you need help with."
+    },
+    {
+        "prompt": "How's the weather today?",
+        "response": "I'm sorry, I cannot access real-time weather information. I recommend checking a weather forecast or looking outside."
+    },
+    {
+        "prompt": "Tell me a joke",
+        "response": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25"
+    },
+    {
+        "prompt": "What is artificial intelligence?",
+        "response": "Artificial Intelligence is a branch of computer science that focuses on developing systems that can simulate human intelligence. It includes machine learning, natural language processing, computer vision, and other fields."
+    },
+    {
+        "prompt": "How to learn programming?",
+        "response": "1. Choose a programming language to start with (like Python)\n2. Learn basic syntax and concepts\n3. Work on projects\n4. Read other people's code\n5. Contribute to open source\n6. Keep learning and practicing"
+    },
+    {
+        "prompt": "Recommend some good books",
+        "response": "1. 'Sapiens' - Yuval Noah Harari\n2. 'The Three-Body Problem' - Liu Cixin\n3. 'To Live' - Yu Hua\n4. 'One Hundred Years of Solitude' - Gabriel Garcia Marquez\n5. 'Fortress Besieged' - Qian Zhongshu"
+    },
+    {
+        "prompt": "How to stay healthy?",
+        "response": "1. Maintain regular sleep schedule\n2. Eat a balanced diet\n3. Exercise regularly\n4. Keep a positive mood\n5. Get regular check-ups\n6. Avoid bad habits"
+    },
+    {
+        "prompt": "What is machine learning?",
+        "response": "Machine Learning is a branch of artificial intelligence that enables computer systems to learn and improve from data without being explicitly programmed. Main types include supervised learning, unsupervised learning, and reinforcement learning."
+    },
+    {
+        "prompt": "How to improve English?",
+        "response": "1. Study daily\n2. Listen and speak more\n3. Read English materials\n4. Watch English movies\n5. Use language learning apps\n6. Join English corners\n7. Practice with native speakers"
+    },
+    {
+        "prompt": "What is deep learning?",
+        "response": "Deep Learning is a subset of machine learning that uses neural networks with multiple layers to process and learn from data. It's particularly effective for tasks like image recognition, natural language processing, and speech recognition."
+    },
+    {
+        "prompt": "How to start a business?",
+        "response": "1. Identify a market need\n2. Create a business plan\n3. Secure funding\n4. Choose a business structure\n5. Register your business\n6. Build a team\n7. Market your product/service\n8. Launch and iterate"
+    },
+    {
+        "prompt": "What is blockchain?",
+        "response": "Blockchain is a distributed ledger technology that records transactions in a secure, transparent, and immutable way. It's the foundation of cryptocurrencies and has applications in supply chain, finance, and more."
+    },
+    {
+        "prompt": "How to manage stress?",
+        "response": "1. Practice mindfulness\n2. Exercise regularly\n3. Get enough sleep\n4. Maintain a healthy diet\n5. Take breaks when needed\n6. Talk to friends or professionals\n7. Learn time management"
+    },
+    {
+        "prompt": "What is cloud computing?",
+        "response": "Cloud computing is the delivery of computing services over the internet, including servers, storage, databases, networking, software, and analytics. It offers flexibility, scalability, and cost-effectiveness."
+    },
+    {
+        "prompt": "How to write a good resume?",
+        "response": "1. Use a clear format\n2. Highlight relevant experience\n3. Include measurable achievements\n4. Customize for each job\n5. Proofread carefully\n6. Keep it concise\n7. Use action verbs"
+    },
+    {
+        "prompt": "What is the Internet of Things?",
+        "response": "The Internet of Things (IoT) refers to the network of physical devices embedded with sensors and software that enable them to collect and exchange data. It's used in smart homes, healthcare, transportation, and more."
+    },
+    {
+        "prompt": "How to learn a new language?",
+        "response": "1. Set clear goals\n2. Practice daily\n3. Use language learning apps\n4. Watch movies and TV shows\n5. Read books and articles\n6. Find a language partner\n7. Immerse yourself in the culture"
+    },
+    {
+        "prompt": "What is cybersecurity?",
+        "response": "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. It includes measures to prevent unauthorized access, data breaches, and other cyber threats."
+    },
+    {
+        "prompt": "How to improve productivity?",
+        "response": "1. Set clear goals\n2. Prioritize tasks\n3. Use time management techniques\n4. Minimize distractions\n5. Take regular breaks\n6. Stay organized\n7. Maintain work-life balance"
+    },
+    {
+        "prompt": "What is virtual reality?",
+        "response": "Virtual Reality (VR) is a computer-generated simulation that immerses users in a 3D environment. It's used in gaming, education, training, and healthcare."
+    },
+    {
+        "prompt": "How to make a good presentation?",
+        "response": "1. Know your audience\n2. Structure your content\n3. Use visual aids effectively\n4. Practice your delivery\n5. Keep it concise\n6. Engage with your audience\n7. End with a strong conclusion"
+    },
+    {
+        "prompt": "What is big data?",
+        "response": "Big data refers to large, complex datasets that can be analyzed to reveal patterns, trends, and associations. It's used in business intelligence, scientific research, and decision-making."
+    },
+    {
+        "prompt": "How to start investing?",
+        "response": "1. Set financial goals\n2. Learn about different investment types\n3. Start with a small amount\n4. Diversify your portfolio\n5. Consider index funds\n6. Invest regularly\n7. Monitor and adjust"
+    },
+    {
+        "prompt": "What is quantum computing?",
+        "response": "Quantum computing uses quantum-mechanical phenomena to perform calculations. It has the potential to solve complex problems that are currently intractable for classical computers."
+    },
+    {
+        "prompt": "How to build good habits?",
+        "response": "1. Start small\n2. Be consistent\n3. Track your progress\n4. Remove obstacles\n5. Find accountability\n6. Reward yourself\n7. Be patient"
+    },
+    {
+        "prompt": "What is 5G technology?",
+        "response": "5G is the fifth generation of wireless technology, offering faster speeds, lower latency, and greater capacity than previous generations. It enables new applications in IoT, autonomous vehicles, and more."
+    },
+    {
+        "prompt": "How to write better code?",
+        "response": "1. Follow coding standards\n2. Write clear comments\n3. Use meaningful names\n4. Keep functions small\n5. Test your code\n6. Review and refactor\n7. Learn from others"
+    },
+    {
+        "prompt": "What is augmented reality?",
+        "response": "Augmented Reality (AR) overlays digital information onto the real world. It's used in gaming, education, navigation, and retail."
+    },
+    {
+        "prompt": "How to improve memory?",
+        "response": "1. Get enough sleep\n2. Exercise regularly\n3. Eat a healthy diet\n4. Practice mindfulness\n5. Use memory techniques\n6. Stay mentally active\n7. Reduce stress"
+    },
+    {
+        "prompt": "What is the metaverse?",
+        "response": "The metaverse is a virtual shared space where users can interact with each other and digital objects. It combines elements of social media, online gaming, and virtual reality."
+    },
+    {
+        "prompt": "How to start a blog?",
+        "response": "1. Choose a niche\n2. Select a platform\n3. Create quality content\n4. Optimize for SEO\n5. Build an audience\n6. Engage with readers\n7. Monetize your blog"
+    },
+    {
+        "prompt": "What is edge computing?",
+        "response": "Edge computing processes data closer to where it's generated, reducing latency and bandwidth usage. It's used in IoT, autonomous vehicles, and real-time applications."
+    },
+    {
+        "prompt": "How to learn data science?",
+        "response": "1. Learn Python or R\n2. Study statistics\n3. Master data visualization\n4. Learn machine learning\n5. Work on projects\n6. Join online communities\n7. Build a portfolio"
+    },
+    {
+        "prompt": "What is the future of AI?",
+        "response": "The future of AI includes more advanced natural language processing, computer vision, and autonomous systems. It will impact healthcare, transportation, education, and many other fields."
+    },
+    {
+        "prompt": "How to start a podcast?",
+        "response": "1. Choose a topic\n2. Plan your content\n3. Get basic equipment\n4. Record and edit\n5. Choose a hosting platform\n6. Promote your podcast\n7. Engage with listeners"
+    },
+    {
+        "prompt": "What is sustainable technology?",
+        "response": "Sustainable technology focuses on reducing environmental impact through energy efficiency, renewable resources, and eco-friendly materials. It includes green computing, renewable energy, and smart grids."
+    },
+    {
+        "prompt": "How to learn web development?",
+        "response": "1. Learn HTML, CSS, and JavaScript\n2. Study front-end frameworks\n3. Learn back-end development\n4. Understand databases\n5. Practice with projects\n6. Learn version control\n7. Build a portfolio"
+    },
+    {
+        "prompt": "What is the future of work?",
+        "response": "The future of work includes remote work, automation, AI collaboration, and new skills requirements. It will require adaptability, continuous learning, and digital literacy."
+    },
+    {
+        "prompt": "How to start a YouTube channel?",
+        "response": "1. Choose a niche\n2. Create quality content\n3. Optimize your videos\n4. Build an audience\n5. Engage with viewers\n6. Monetize your channel\n7. Stay consistent"
+    },
+    {
+        "prompt": "What is the future of transportation?",
+        "response": "The future of transportation includes electric vehicles, autonomous cars, hyperloop, and flying taxis. It will focus on sustainability, efficiency, and safety."
+    },
+    {
+        "prompt": "How to learn mobile app development?",
+        "response": "1. Choose a platform (iOS/Android)\n2. Learn programming languages\n3. Study app design\n4. Understand APIs\n5. Practice with projects\n6. Test your apps\n7. Publish to app stores"
+    },
+    {
+        "prompt": "What is the future of healthcare?",
+        "response": "The future of healthcare includes AI diagnostics, telemedicine, personalized medicine, and wearable technology. It will focus on prevention, accessibility, and efficiency."
+    },
+    {
+        "prompt": "How to start a tech startup?",
+        "response": "1. Identify a problem\n2. Validate your idea\n3. Build a prototype\n4. Find co-founders\n5. Secure funding\n6. Build a team\n7. Launch and iterate"
+    },
+    {
+        "prompt": "What is the future of education?",
+        "response": "The future of education includes online learning, personalized learning, AI tutors, and virtual reality classrooms. It will focus on accessibility, flexibility, and lifelong learning."
+    },
+    {
+        "prompt": "How to learn game development?",
+        "response": "1. Choose a game engine\n2. Learn programming\n3. Study game design\n4. Create simple games\n5. Learn 3D modeling\n6. Join game dev communities\n7. Build a portfolio"
+    },
+    {
+        "prompt": "What is the future of retail?",
+        "response": "The future of retail includes e-commerce, augmented reality shopping, personalized experiences, and automated stores. It will focus on convenience, personalization, and sustainability."
+    },
+    {
+        "prompt": "How to start a tech blog?",
+        "response": "1. Choose a tech niche\n2. Set up a website\n3. Create quality content\n4. Optimize for SEO\n5. Build an audience\n6. Monetize your blog\n7. Stay updated with tech trends"
+    },
+    {
+        "prompt": "What is the future of finance?",
+        "response": "The future of finance includes blockchain, digital currencies, AI trading, and decentralized finance. It will focus on accessibility, transparency, and innovation."
+    },
+    {
+        "prompt": "How to learn UI/UX design?",
+        "response": "1. Study design principles\n2. Learn design tools\n3. Understand user psychology\n4. Create wireframes\n5. Build prototypes\n6. Get user feedback\n7. Build a portfolio"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech career?",
+        "response": "1. Choose a tech field\n2. Learn relevant skills\n3. Build projects\n4. Get certifications\n5. Network with professionals\n6. Apply for jobs\n7. Continue learning"
+    },
+    {
+        "prompt": "What is the future of communication?",
+        "response": "The future of communication includes AI translation, holographic calls, brain-computer interfaces, and instant global connectivity. It will focus on real-time, immersive, and accessible communication."
+    },
+    {
+        "prompt": "How to learn cloud computing?",
+        "response": "1. Learn cloud platforms\n2. Study cloud architecture\n3. Understand security\n4. Practice with projects\n5. Get certifications\n6. Join cloud communities\n7. Build a portfolio"
+    },
+    {
+        "prompt": "What is the future of manufacturing?",
+        "response": "The future of manufacturing includes 3D printing, robotics, IoT, and smart factories. It will focus on automation, efficiency, and sustainability."
+    },
+    {
+        "prompt": "How to start a tech podcast?",
+        "response": "1. Choose a tech topic\n2. Plan your episodes\n3. Get recording equipment\n4. Record and edit\n5. Choose a hosting platform\n6. Promote your podcast\n7. Engage with listeners"
+    },
+    {
+        "prompt": "What is the future of agriculture?",
+        "response": "The future of agriculture includes precision farming, vertical farming, AI monitoring, and sustainable practices. It will focus on efficiency, sustainability, and food security."
+    },
+    {
+        "prompt": "How to learn cybersecurity?",
+        "response": "1. Study networking\n2. Learn programming\n3. Understand security concepts\n4. Practice with CTF challenges\n5. Get certifications\n6. Join security communities\n7. Build a portfolio"
+    },
+    {
+        "prompt": "What is the future of energy?",
+        "response": "The future of energy includes renewable sources, smart grids, energy storage, and decentralized systems. It will focus on sustainability, efficiency, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech YouTube channel?",
+        "response": "1. Choose a tech niche\n2. Create quality content\n3. Optimize your videos\n4. Build an audience\n5. Engage with viewers\n6. Monetize your channel\n7. Stay updated with tech trends"
+    },
+    {
+        "prompt": "What is the future of space exploration?",
+        "response": "The future of space exploration includes Mars colonization, space tourism, asteroid mining, and interstellar travel. It will focus on sustainability, innovation, and human expansion."
+    },
+    {
+        "prompt": "How to learn blockchain development?",
+        "response": "1. Study blockchain concepts\n2. Learn Solidity\n3. Understand smart contracts\n4. Practice with projects\n5. Join blockchain communities\n6. Build a portfolio\n7. Stay updated with trends"
+    },
+    {
+        "prompt": "What is the future of transportation?",
+        "response": "The future of transportation includes electric vehicles, autonomous cars, hyperloop, and flying taxis. It will focus on sustainability, efficiency, and safety."
+    },
+    {
+        "prompt": "How to start a tech newsletter?",
+        "response": "1. Choose a tech niche\n2. Set up a newsletter platform\n3. Create quality content\n4. Build a subscriber list\n5. Engage with readers\n6. Monetize your newsletter\n7. Stay consistent"
+    },
+    {
+        "prompt": "What is the future of healthcare?",
+        "response": "The future of healthcare includes AI diagnostics, telemedicine, personalized medicine, and wearable technology. It will focus on prevention, accessibility, and efficiency."
+    },
+    {
+        "prompt": "How to learn machine learning?",
+        "response": "1. Study mathematics\n2. Learn Python\n3. Understand ML algorithms\n4. Practice with projects\n5. Join ML communities\n6. Build a portfolio\n7. Stay updated with research"
+    },
+    {
+        "prompt": "What is the future of education?",
+        "response": "The future of education includes online learning, personalized learning, AI tutors, and virtual reality classrooms. It will focus on accessibility, flexibility, and lifelong learning."
+    },
+    {
+        "prompt": "How to start a tech community?",
+        "response": "1. Choose a tech focus\n2. Set up communication channels\n3. Create valuable content\n4. Organize events\n5. Build relationships\n6. Grow your community\n7. Maintain engagement"
+    },
+    {
+        "prompt": "What is the future of retail?",
+        "response": "The future of retail includes e-commerce, augmented reality shopping, personalized experiences, and automated stores. It will focus on convenience, personalization, and sustainability."
+    },
+    {
+        "prompt": "How to learn data engineering?",
+        "response": "1. Study databases\n2. Learn ETL processes\n3. Understand data warehousing\n4. Practice with projects\n5. Join data communities\n6. Build a portfolio\n7. Stay updated with tools"
+    },
+    {
+        "prompt": "What is the future of finance?",
+        "response": "The future of finance includes blockchain, digital currencies, AI trading, and decentralized finance. It will focus on accessibility, transparency, and innovation."
+    },
+    {
+        "prompt": "How to start a tech meetup?",
+        "response": "1. Choose a tech topic\n2. Find a venue\n3. Plan your event\n4. Promote your meetup\n5. Engage with attendees\n6. Build a community\n7. Stay consistent"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to learn DevOps?",
+        "response": "1. Study Linux\n2. Learn automation tools\n3. Understand CI/CD\n4. Practice with projects\n5. Join DevOps communities\n6. Build a portfolio\n7. Stay updated with tools"
+    },
+    {
+        "prompt": "What is the future of communication?",
+        "response": "The future of communication includes AI translation, holographic calls, brain-computer interfaces, and instant global connectivity. It will focus on real-time, immersive, and accessible communication."
+    },
+    {
+        "prompt": "How to start a tech conference?",
+        "response": "1. Choose a tech theme\n2. Find a venue\n3. Plan your program\n4. Invite speakers\n5. Promote your event\n6. Manage logistics\n7. Engage with attendees"
+    },
+    {
+        "prompt": "What is the future of manufacturing?",
+        "response": "The future of manufacturing includes 3D printing, robotics, IoT, and smart factories. It will focus on automation, efficiency, and sustainability."
+    },
+    {
+        "prompt": "How to learn system design?",
+        "response": "1. Study architecture patterns\n2. Learn scalability concepts\n3. Understand databases\n4. Practice with projects\n5. Join design communities\n6. Build a portfolio\n7. Stay updated with trends"
+    },
+    {
+        "prompt": "What is the future of agriculture?",
+        "response": "The future of agriculture includes precision farming, vertical farming, AI monitoring, and sustainable practices. It will focus on efficiency, sustainability, and food security."
+    },
+    {
+        "prompt": "How to start a tech mentorship program?",
+        "response": "1. Define your goals\n2. Create a structure\n3. Find mentors\n4. Match with mentees\n5. Provide resources\n6. Monitor progress\n7. Gather feedback"
+    },
+    {
+        "prompt": "What is the future of energy?",
+        "response": "The future of energy includes renewable sources, smart grids, energy storage, and decentralized systems. It will focus on sustainability, efficiency, and accessibility."
+    },
+    {
+        "prompt": "How to learn cloud architecture?",
+        "response": "1. Study cloud platforms\n2. Learn architecture patterns\n3. Understand security\n4. Practice with projects\n5. Get certifications\n6. Join cloud communities\n7. Build a portfolio"
+    },
+    {
+        "prompt": "What is the future of space exploration?",
+        "response": "The future of space exploration includes Mars colonization, space tourism, asteroid mining, and interstellar travel. It will focus on sustainability, innovation, and human expansion."
+    },
+    {
+        "prompt": "How to start a tech incubator?",
+        "response": "1. Define your focus\n2. Create a program\n3. Find mentors\n4. Select startups\n5. Provide resources\n6. Monitor progress\n7. Help with funding"
+    },
+    {
+        "prompt": "What is the future of transportation?",
+        "response": "The future of transportation includes electric vehicles, autonomous cars, hyperloop, and flying taxis. It will focus on sustainability, efficiency, and safety."
+    },
+    {
+        "prompt": "How to learn quantum computing?",
+        "response": "1. Study quantum mechanics\n2. Learn quantum algorithms\n3. Understand quantum circuits\n4. Practice with simulators\n5. Join quantum communities\n6. Build a portfolio\n7. Stay updated with research"
+    },
+    {
+        "prompt": "What is the future of healthcare?",
+        "response": "The future of healthcare includes AI diagnostics, telemedicine, personalized medicine, and wearable technology. It will focus on prevention, accessibility, and efficiency."
+    },
+    {
+        "prompt": "How to start a tech accelerator?",
+        "response": "1. Define your focus\n2. Create a program\n3. Find mentors\n4. Select startups\n5. Provide resources\n6. Monitor progress\n7. Help with funding"
+    },
+    {
+        "prompt": "What is the future of education?",
+        "response": "The future of education includes online learning, personalized learning, AI tutors, and virtual reality classrooms. It will focus on accessibility, flexibility, and lifelong learning."
+    },
+    {
+        "prompt": "How to learn AI ethics?",
+        "response": "1. Study ethical frameworks\n2. Learn about bias\n3. Understand privacy\n4. Practice with case studies\n5. Join ethics communities\n6. Build a portfolio\n7. Stay updated with guidelines"
+    },
+    {
+        "prompt": "What is the future of retail?",
+        "response": "The future of retail includes e-commerce, augmented reality shopping, personalized experiences, and automated stores. It will focus on convenience, personalization, and sustainability."
+    },
+    {
+        "prompt": "How to start a tech research lab?",
+        "response": "1. Define research areas\n2. Build a team\n3. Secure funding\n4. Set up infrastructure\n5. Conduct research\n6. Publish findings\n7. Collaborate with industry"
+    },
+    {
+        "prompt": "What is the future of finance?",
+        "response": "The future of finance includes blockchain, digital currencies, AI trading, and decentralized finance. It will focus on accessibility, transparency, and innovation."
+    },
+    {
+        "prompt": "How to learn robotics?",
+        "response": "1. Study mechanics\n2. Learn programming\n3. Understand sensors\n4. Practice with projects\n5. Join robotics communities\n6. Build a portfolio\n7. Stay updated with technology"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    },
+    {
+        "prompt": "What is the future of entertainment?",
+        "response": "The future of entertainment includes virtual reality, augmented reality, AI-generated content, and interactive experiences. It will focus on immersion, personalization, and accessibility."
+    },
+    {
+        "prompt": "How to start a tech innovation hub?",
+        "response": "1. Define your focus\n2. Create a space\n3. Build a community\n4. Provide resources\n5. Host events\n6. Support startups\n7. Foster collaboration"
+    }
+]

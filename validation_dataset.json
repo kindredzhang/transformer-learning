@@ -1,0 +1,22 @@
+[
+    {
+        "prompt": "What is deep learning?",
+        "response": "Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn from data. It's particularly effective for tasks like image recognition, natural language processing, and speech recognition."
+    },
+    {
+        "prompt": "How does a neural network work?",
+        "response": "A neural network works by simulating interconnected neurons. It processes input data through multiple layers, where each layer transforms the data using weights and activation functions. The network learns by adjusting these weights based on the difference between predicted and actual outputs."
+    },
+    {
+        "prompt": "What is transfer learning?",
+        "response": "Transfer learning is a machine learning technique where a model trained on one task is reused as a starting point for a different but related task. It's particularly useful when you have limited data for the new task, as it leverages knowledge from the pre-trained model."
+    },
+    {
+        "prompt": "Explain the concept of overfitting",
+        "response": "Overfitting occurs when a model learns the training data too well, including its noise and outliers. This results in poor performance on new, unseen data. It's like memorizing answers instead of understanding the underlying patterns."
+    },
+    {
+        "prompt": "What are the main types of machine learning?",
+        "response": "The main types of machine learning are:\n1. Supervised Learning: Learning from labeled data\n2. Unsupervised Learning: Finding patterns in unlabeled data\n3. Reinforcement Learning: Learning through trial and error with rewards\n4. Semi-supervised Learning: Using both labeled and unlabeled data"
+    }
+]
